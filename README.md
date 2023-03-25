@@ -11,9 +11,9 @@ Our aim for this report is to download the electricity price data for France fro
 
 **Data Visualization**
 After the data has been cleaned and organized, we need to prepare scatter plots using the data of the first 2 years i.e., 2019-2020. The following scatter plots of forecasted load versus the price shall be prepared:
-*For all data
-*For all hours on Saturdays
-*For the hour 10am on all days of the week
+*For all data*
+*For all hours on Saturdays*
+*For the hour 10am on all days of the week*
 
 Along with the scatter plots, we have to prepare weekly and daily seasonality plots for both the price and load data for the same span of time i.e., 2019-2020.
 
