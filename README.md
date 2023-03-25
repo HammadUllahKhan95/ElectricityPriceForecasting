@@ -23,15 +23,3 @@ The models can be found in the report file.
 
 For all the 4 models, we will calculate the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each hour of the day separately and jointly for all hours.
 We shall be using MATLAB for all of these tasks. The code is explained in the following sub-section of this report.
-
-
-**Neural Network**
-
-For each hour h of the day, we need to compute forecasts for all days in 2021 of a multilayer perceptron (MLP) with:
-#Same inputs as the 24 hourly ARX1 models
-#2 hidden layers
-#24 outputs, i.e., Pd,1, Pd,2, ..., Pd,24
-#sigmoid activation function for both hidden layers,
-#A fixed two-year calibration window (2019-2020).
-
-And we shall calculate MAE and RMSE and compare with the other four models. For this task, we shall be using Python.
