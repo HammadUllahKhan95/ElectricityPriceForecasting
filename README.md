@@ -22,4 +22,4 @@ After the scatter and seasonality plots, we need to compute forecasts for all th
 The models can be found in the report file.
 
 For all the 4 models, we will calculate the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each hour of the day separately and jointly for all hours.
-We shall be using MATLAB for all of these tasks. The code is explained in the following sub-section of this report.
+We shall be using MATLAB for all of these tasks. The code is explained in the following sub-section of this report
