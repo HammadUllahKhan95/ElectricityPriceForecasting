@@ -2,8 +2,6 @@
 
 Author: Hammad Ullah
 
-In the data folder, you will find French Electricity Price data as well as French data for daily load.
-
 Electricity price forecasting, a branch of energy forecasting methods, focuses on the spot and forward prices in the wholesale electricity markets. It is an important tool that influences the energy companies’ decision-making at a larger corporate level. The forecasts not only predict the prices for the coming days but it also helps us see the seasonality in the prices whether that is weekly, daily, monthly, or even yearly. The whole purpose of forecasting is mainly for the bidding on power at a wholesale market as the prices for a certain day is decided a day before through the bidding system
 
 **Aim and Tools**
